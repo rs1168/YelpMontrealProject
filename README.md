@@ -1,6 +1,6 @@
 # YelpMontrealProject
 
-Abstract
+###Abstract
 
 In this paper, we examine how English and French Yelp restaurant reviews differ in Montreal.  We use the open dataset from the Yelp Dataset Challenge with over 50,000 reviews from Montreal.  With access to the actual text of Yelp reviews, we have a somewhat novel opportunity to analyze how subjective perceptions of a restaurant experience combined with Yelp users’ language inform review star rating.  To find latent topics from the reviews for each language, we use Latent Dirichlet Allocation, then we analyze the relationship between these topics and review star rating.
 
