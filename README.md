@@ -40,8 +40,7 @@ In order to find the most appropriate number of topics k, we run the model using
 We obtain the topic distribution for each review in both data frames from the LDA models and add 50 columns with the probability that a given review is about that topic.  These topic probabilities are the independent variables and stars is the dependent variable in our statistical analyses.  We chose to perform an ordered logistic regression.  An OLS regression analysis is problematic in this case because the assumptions of OLS are violated by the discrete ordinal nature of the dependent variable stars.  
 
 
-<p class=MsoNormal style='line-height:200%'><span style='font-size:20.0pt;
-line-height:200%'>Results</span></p>
+###Results
 
 <p class=MsoNormal style='text-indent:.5in;line-height:200%'>Of the 50 topics
 found by the LDA model, we will examine those with the highest and lowest odds
@@ -389,7 +388,7 @@ famill, arriv </i>and<i> mang</i>.</p>
 
 <p class=MsoNormal><span style='font-size:20.0pt'>&nbsp;</span></p>
 
-<p class=MsoNormal><span style='font-size:20.0pt'>Conclusion</span></p>
+###Conclusion
 
 <p class=MsoNormal>&nbsp;</p>
 
