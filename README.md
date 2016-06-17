@@ -397,3 +397,20 @@ model.&nbsp; In future work, it would be interesting to apply a bigram LDA and
 analyze these bigram topics in a similar fashion as the unigram topics in this
 paper.</p>
 
+###References
+
+[1]   Anderson, M., & Magruder, J. (2012). Learning from the crowd: Regression discontinuity estimates of the effects of an online review database*. The Economic Journal, 122(563), 957-989.
+
+[2]   Luca, M. (2011). Reviews, reputation, and revenue: The case of Yelp. com.Com (September 16, 2011). Harvard Business School NOM Unit Working Paper, (12-016).
+
+
+[3]   Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). Indexing by latent semantic analysis. Journal of the American society for information science, 41(6), 391.
+
+[4]   Hofmann, T. (1999, August). Probabilistic latent semantic indexing. InProceedings of the 22nd annual international ACM SIGIR conference on Research and development in information retrieval (pp. 50-57). ACM.
+
+[5]   Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. the Journal of machine Learning research, 3, 993-1022.
+
+[6]   Huang, J., Rogers, S., & Joo, E. (2014). Improving restaurants by extracting subtopics from yelp reviews. iConference 2014 (Social Media Expo).
+
+[7]   Hoffman, M., Bach, F. R., & Blei, D. M. (2010). Online learning for latent dirichlet allocation. In advances in neural information processing systems (pp. 856-864).
+
