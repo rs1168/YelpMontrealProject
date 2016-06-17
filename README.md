@@ -386,12 +386,7 @@ importance of service to French commenters.&nbsp; Topic 0 is appears to be assoc
 with words about a negativee anecdotal experience like <i>plus, jam[ais], vrai,
 famill, arriv </i>and<i> mang</i>.</p>
 
-<p class=MsoNormal><span style='font-size:20.0pt'>&nbsp;</span></p>
-
 ###Conclusion
-
-<p class=MsoNormal>&nbsp;</p>
-
 <p class=MsoNormal style='text-indent:.5in;line-height:200%'>Using our LDA
 model, we have shown what users care about most in their reviews of
 restaurants.&nbsp; Overall it seems that French commenters care about dessert
