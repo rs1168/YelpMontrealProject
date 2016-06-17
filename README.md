@@ -1,4 +1,8 @@
-# YelpMontrealProject
+# Montrealer vs Montréalais:
+
+A text-based comparison of Yelp restaurant reviews 
+between English and French speakers in Montreal
+
 
 ##Abstract
 
@@ -34,3 +38,14 @@ Finally, we transfer our data to Python and begin our latent topic analysis for 
 In order to find the most appropriate number of topics k, we run the model using different values of k, ranging from 10 to 100.   Based on the selection process proposed by Huang et al., we inspect each of the words associated with each generated topic and settled on k = 50 since it had what appears to be the most informative and reasonable topics [6].  Although a few of the topics have meanings that are ambiguous, the vast majority have clear interpretations.
 
 We obtain the topic distribution for each review in both data frames from the LDA models and add 50 columns with the probability that a given review is about that topic.  These topic probabilities are the independent variables and stars is the dependent variable in our statistical analyses.  We chose to perform an ordered logistic regression.  An OLS regression analysis is problematic in this case because the assumptions of OLS are violated by the discrete ordinal nature of the dependent variable stars.  
+
+Topic Odds Ratio coefficient
+Topic 43: 
+Recommendations 1962.63
+Topic 17: 
+Rich and Decadent 605.2502
+Topic 23:
+Reading Menu 547.2684
+Table 1: Positive Topics, English
+
+
